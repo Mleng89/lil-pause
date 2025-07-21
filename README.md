@@ -2,6 +2,26 @@
 
 A mindful daily logging application that encourages reflection and presence through gentle prompts and journaling.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Local Development Setup](#local-development-setup)
+- [Usage Examples](#usage-examples)
+  - [Daily Reflection Practice](#daily-reflection-practice)
+  - [Sample Daily Prompts](#sample-daily-prompts)
+- [Journaling Tips](#journaling-tips)
+- [Application Structure](#application-structure)
+- [Key Components](#key-components)
+  - [Daily Logger](#daily-logger)
+  - [Daily Prompt (Self-care)](#daily-prompt-self-care)
+- [Contributing](#contributing)
+  - [Development Guidelines](#development-guidelines)
+- [Support](#support)
+- [Acknowledgments](#acknowledgments)
+
 ## Overview
 
 Lil-Pause is a simple daily logging application designed to help users create moments of mindfulness in your daily routine. Rather than rushing through your day, this application provides thoughtful prompts the encourage reflection, gratitude, and intentional living through the practice of daily journaling.
