@@ -143,7 +143,7 @@ If you encounter any issues or have suggestions on making this application bette
 - Open an issue on GitHub (check existing issues before creating new ones)
 - Provide as much detail as possible when reporting bugs (ie: step-by-step in recreating the issue or show screenshots)
 
-## Acknowledgements
+## Acknowledgments
 
 - Inspired by mindfulness practices of my daily life and the benefit of reflection.
 - Built with the intention to help people seeking more presence in their daily life.
