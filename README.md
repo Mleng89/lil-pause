@@ -34,14 +34,14 @@ Lil-Pause is a simple daily logging application designed to help users create mo
 - **Privacy-Focused**: Your entries are stored locally - your thoughts remain private (You are also able to download your entries if you wish to clear your local cache!)
 - **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
 
-### Installation
+## Installation
 
-**Prerequisites**
+### **Prerequisites**
 
 - Node.js (Version 16 or higher)
 - npm or yarn package manager
 
-**Local development Setup**
+### **Local development Setup**
 
 1. **Clone the repository**
 
