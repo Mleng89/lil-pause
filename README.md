@@ -118,7 +118,7 @@ src/
 - Curated collection of mindfulness and reflection prompts
 - Rotates daily to provide a variety of prompts, but user has the ability to also choose a different prompt if they wish
 
-### Contributing
+## Contributing
 
 Contributions are welcomed to make Lil-Pause even better!
 
